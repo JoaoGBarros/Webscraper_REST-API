@@ -9,8 +9,6 @@ def EscohaLoja(lojas):
         print("Em que site de compras deseja procurar: ")
         print("1 - Mercado Livre")
         print("2 - Amazon")
-        print("3 - Americanas")
-        print("4 - Magazine Luiza")
 
         opcao = int(input())
 
